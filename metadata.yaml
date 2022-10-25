@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '41954'
     url: http://www.gutenberg.org/2009/agents/41954
     wikipedia: https://fi.wikipedia.org/wiki/Alpo_Kupiainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hauptmann, Gerhart
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gerhart_Hauptmann
     - https://de.wikipedia.org/wiki/Gerhart_Hauptmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69039#Soanan-kerettilainen
 gutenberg_issued: '2022-09-24'
 identifiers:
   gutenberg: '69039'
